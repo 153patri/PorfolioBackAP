@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.porfolio.integrador.IntegradorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.369 s - in com.porfolio.integrador.IntegradorApplicationTests
